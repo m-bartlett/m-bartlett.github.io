@@ -6,7 +6,7 @@
   ], 
   "links": [
     {
-      "href": "https://mbartlett.dev/openid", 
+      "href": "https://lemur-8.cloud-iam.com/auth/realms/bytelett", 
       "rel": "http://openid.net/specs/connect/1.0/issuer"
     }, 
     {
