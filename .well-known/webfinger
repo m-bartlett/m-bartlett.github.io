@@ -6,7 +6,7 @@
   ], 
   "links": [
     {
-      "href": "https://lemur-4.cloud-iam.com/auth/realms/bytelett-tailscale", 
+      "href": "https://mbartlett.dev/openid", 
       "rel": "http://openid.net/specs/connect/1.0/issuer"
     }, 
     {
