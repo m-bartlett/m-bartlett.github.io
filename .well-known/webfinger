@@ -1,12 +1,1 @@
-{
-  "subject": "michael@mbartlett.dev",
-  "properties": {
-    "http://schema.org/name": "Michael Bartlett"
-  },
-  "links": [
-    {
-      "rel": "http://webfinger.net/rel/profile-page",
-      "href": "https://mbartlett.dev"
-    }
-  ]
-}
+{"subject":"michael@mbartlett.dev","properties":{"http://schema.org/name":"Michael Bartlett"},"links":[{"rel":"http://webfinger.net/rel/profile-page","href":"https://mbartlett.dev"}]}
