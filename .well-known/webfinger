@@ -1,9 +1,31 @@
 {
   "subject": "acct:michael@mbartlett.dev",
+  "aliases": [
+    "https://mbartlett.dev", 
+    "https://tenforward.social/users/bytelett"
+  ], 
   "links": [
     {
-      "rel": "http://webfinger.net/rel/profile-page",
-      "href": "https://mbartlett.dev"
+      "href": "https://lemur-4.cloud-iam.com/auth/realms/bytelett-tailscale", 
+      "rel": "http://openid.net/specs/connect/1.0/issuer"
+    }, 
+    {
+      "href": "https://mbartlett.dev", 
+      "rel": "http://webfinger.net/rel/profile-page"
+    }, 
+    {
+      "href": "https://tenforward.social/@bytelett", 
+      "rel": "http://webfinger.net/rel/profile-page", 
+      "type": "text/html"
+    }, 
+    {
+      "href": "https://tenforward.social/users/bytelett", 
+      "rel": "self", 
+      "type": "application/activity+json"
+    }, 
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe", 
+      "template": "https://tenforward.social/authorize_interaction?uri={uri}"
     }
   ]
 }
