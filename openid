@@ -1,7 +1,0 @@
-{
-  "account-service": "https://lemur-4.cloud-iam.com/auth/realms/bytelett-tailscale/account", 
-  "public_key": "AAAAB3NzaC1yc2EAAAADAQABAAABgQCwdQchVtVbFNeOyMTp/kGqBDObBV//GA6HhIW10TaoBneE7TjN2+7c0kd+glk0jQ5kKmSpEd/dIS8ukJx5Z3v1lKEst5IGxwTOnDZXORgzkCuDP/qkCtexL3c19k0yPrTDPG2iIeL5Oc0RziIPp0XMQ1R/cDS0rYi1WvczDrEsMqLTlbr8bSYX1l6TAp+/5kVz7CQ/AuW/B+U1OM12VJ3R3127A8oRjW5cmF080eioXp0kaY3zu/Mey3u4JBgeVU0mlFRCRDm6kzV+zyCkQ74Jd1ZI96GbO9KXjsFwiUlrHVULHl5YDLwUkmTr44JR1L7NQq3NrT8a9Bv9mA7Nzik8mDYe/jnAfR+X2Ipov+IdM7esW6KiHSge408gNyTSSrHz6E1C35hPo2YnqqNWhFRcxA2RjTRHSqc8Oy9b3uMu3tXWAkZmDYMJl2aQOZgxCUr/RLA0jdjmIP+VRycpsoImioACUzOxoNWnafOiviwtHGpT6YcKvPWVhfG2kyh6Wx8=", 
-  "realm": "bytelett-tailscale", 
-  "token-service": "https://lemur-4.cloud-iam.com/auth/realms/bytelett-tailscale/protocol/openid-connect", 
-  "tokens-not-before": 0
-}
