@@ -2,8 +2,24 @@
   "subject": "acct:michael@mbartlett.dev",
   "links": [
     {
-      "href": "https://unruffled-sutherland-fbks2ht5t3.projects.oryapis.com",
+      "href": "https://unruffled-sutherland-fbks2ht5t3.projects.oryapis.com", 
       "rel": "http://openid.net/specs/connect/1.0/issuer"
+    }, 
+    {
+      "href": "https://unruffled-sutherland-fbks2ht5t3.projects.oryapis.com/oauth2/auth", 
+      "rel": "authorization_endpoint"
+    }, 
+    {
+      "href": "https://unruffled-sutherland-fbks2ht5t3.projects.oryapis.com/oauth2/token", 
+      "rel": "token_endpoint"
+    }, 
+    {
+      "href": "https://unruffled-sutherland-fbks2ht5t3.projects.oryapis.com/userinfo", 
+      "rel": "userinfo_endpoint"
+    }, 
+    {
+      "href": "https://unruffled-sutherland-fbks2ht5t3.projects.oryapis.com/.well-known/jwks.json", 
+      "rel": "jwks_uri"
     }
   ]
 }
